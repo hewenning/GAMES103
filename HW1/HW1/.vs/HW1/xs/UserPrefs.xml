@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{94D64F0D-5B2B-A0CC-37AC-E9C96C3FCDEF}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Math_Util.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Rigid_Bunny_by_Shape_Matching.cs">
     <Files>
-      <File FileName="Assets/Scripts/Rigid_Bunny_by_Shape_Matching.cs" Line="12" Column="1" />
-      <File FileName="Assets/Scripts/Rigid_Bunny.cs" Line="19" Column="1" />
-      <File FileName="Assets/Scripts/Math_Util.cs" Line="8" Column="49" />
+      <File FileName="Assets/Scripts/Rigid_Bunny_by_Shape_Matching.cs" Line="120" Column="49" />
+      <File FileName="Assets/Scripts/Math_Util.cs" Line="88" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +10,7 @@
           <Node name="HW1" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="Math_Util.cs" selected="True" />
+                <Node name="Rigid_Bunny_by_Shape_Matching.cs" selected="True" />
               </Node>
             </Node>
           </Node>
