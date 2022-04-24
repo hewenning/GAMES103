@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{40DDEA6E-A25F-55EC-4F66-208B39B1FF87}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/implicit_model.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.ide.visualstudio@2.0.9/Editor/VisualStudioIntegration.cs" Line="149" Column="1" />
+      <File FileName="Assets/Scripts/implicit_model.cs" Line="141" Column="1" />
+      <File FileName="Assets/Mats/cloth_shader.shader" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/sphere_motion.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PBD_model.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HW2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Mats" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="implicit_model.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b51c82c8-5e84-490b-a17b-8cac63c8c3ac" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
