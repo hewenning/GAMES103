@@ -6,26 +6,18 @@ GAMES103 Homework
 
 ### Impulse
 
-<video id="video" controls="">
-      <source id="mp4" src="HW1/Impulse" type="video/mp4">
-</videos>
+<video src="./HW1/Impulse.mp4" width="800px" height="600px" controls="controls"></video>
 
 ### ShapeMatching
 
-<video id="video" controls="">
-      <source id="mp4" src="HW1/ShapeMatching" type="video/mp4">
-</videos>
+<video src="./HW1/ShapeMatching.mp4" width="800px" height="600px" controls="controls"></video>
 
 ## HW2
 
-### Implicit Cloth Solver
+### ImplicitClothSolver
 
-<video id="video" controls="">
-      <source id="mp4" src="HW2/ImplicitClothSolve" type="video/mp4">
-</videos>
+<video src="./HW2/ImplicitClothSolve.mp4" width="800px" height="600px" controls="controls"></video>
 
 ### Strain Limiting and Position-based Dynamics
 
-<video id="video" controls="">
-      <source id="mp4" src="HW2/PBD" type="video/mp4">
-</videos>
+<video src="./HW2/PBD.mp4" width="800px" height="600px" controls="controls"></video>
